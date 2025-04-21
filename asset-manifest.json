@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TejasPathare1712/Portfolio/static/css/main.dc4d6ff2.css",
+    "main.js": "/TejasPathare1712/Portfolio/static/js/main.1a8120fa.js",
+    "static/js/453.1407b060.chunk.js": "/TejasPathare1712/Portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/TejasPathare1712/Portfolio/index.html",
+    "main.dc4d6ff2.css.map": "/TejasPathare1712/Portfolio/static/css/main.dc4d6ff2.css.map",
+    "main.1a8120fa.js.map": "/TejasPathare1712/Portfolio/static/js/main.1a8120fa.js.map",
+    "453.1407b060.chunk.js.map": "/TejasPathare1712/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.1a8120fa.js"
+  ]
+}
